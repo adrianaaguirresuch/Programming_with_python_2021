@@ -25,7 +25,7 @@
 print('These are few examples of comparison operators in python\n')
 
 # We have already used addition: (+) and subtraction (-). Let's mix them with multiplication (*) and division (/)
-numeric_value_1 = 10
+numeric_value_1 = 20
 numeric_value_2 = 20
 numeric_value_3 = 15
 numeric_value_4 = 10
